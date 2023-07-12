@@ -7,3 +7,25 @@ a {
     font-size: 16px;
     line-height: 20px;
 }
+
+.base_title_h1 {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.base_title_h2 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 80px;
+}
+
+.base_paragraph {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
